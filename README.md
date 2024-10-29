@@ -11,3 +11,5 @@ This can make individual alerts easier to find for sites with a large number of 
 ## Getting Started
 
 This project's folder can be loaded as an "unpacked extension" in developer mode, see [Load an unpacked extension](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
+
+For general or enterprise distribution via the Chrome Web Store, see [Distribute your extension](https://developer.chrome.com/docs/extensions/how-to/distribute).
