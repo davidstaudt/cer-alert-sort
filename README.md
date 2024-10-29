@@ -4,7 +4,7 @@
 
 Simple Chrome extension that manipulates the Cisco Emergency Responder **ERL Information** admin web page, sorting the **Available Onsite Alert IDs** and **Onsite Alert IDs for the ERL** select boxes.
 
-![CER Sort](screenshot.png)
+![CER Sort](images/screenshot.png)
 
 This can make individual alerts easier to find for sites with a large number of available alerts, as the select boxes are unsorted by default.
 
